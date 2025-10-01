@@ -40,16 +40,16 @@ pip install -r requirements.txt -U
 5. Analyze the data with the supplied Jupyter Notebooks
 
 ## Citation
-B. Denizer et al., "Fjord5G: A Comprehensive 5G Dataset for Coastal Maritime Connectivity", 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 2025, pp. 1-5
+B. Denizer, N. Dohse and O. Landsiedel, "Fjord5G: A Comprehensive 5G Dataset for Coastal Maritime Connectivity," 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 2025, pp. 1-5
 ```
-@INPROCEEDINGS{Fjord5G,
-  author={Denizer, Birkan and Landsiedel, Olaf},
+@INPROCEEDINGS{11174898,
+  author={Denizer, Birkan and Dohse, Nils and Landsiedel, Olaf},
   booktitle={2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)}, 
   title={Fjord5G: A Comprehensive 5G Dataset for Coastal Maritime Connectivity}, 
   year={2025},
   volume={},
   number={},
   pages={1-5},
-  keywords={Dataset;coastal;maritime;LTE;5G;machine learning;QoS prediction;remote control;autonomous ferry},
-  }
+  keywords={Antenna measurements;Vehicular and wireless technologies;5G mobile communication;Transfer learning;Sea measurements;Interference;Bandwidth;Predictive models;Data models;Vehicle dynamics;Dataset;coastal;maritime;LTE;5G;machine learning;QoS prediction;remote control;autonomous ferry},
+  doi={10.1109/VTC2025-Spring65109.2025.11174898}}
 ```
